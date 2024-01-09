@@ -29,10 +29,19 @@ This project focuses on utilizing machine learning techniques to predict stock p
 ### Exploratory Data Analysis (EDA)
 - Perform initial data exploration using Python libraries such as Pandas, Matplotlib, and Seaborn.
 - Visualize trends, correlations, and distributions within the stock datasets.
+- ![stockOverTime](https://github.com/AirSatyam07/Stock-Price-Prediction/assets/99055360/835bd033-c377-45a7-a8ae-99c60de2c66d)
+- ![distribution](https://github.com/AirSatyam07/Stock-Price-Prediction/assets/99055360/023aed59-8181-4c7e-80cb-109c70cb741c)
+- ![correlation](https://github.com/AirSatyam07/Stock-Price-Prediction/assets/99055360/5ac7636f-0957-45ab-bca4-09b8fbe986c2)
+
+
+
 
 ### Stock Price Prediction using LSTM
 - Python code snippets leveraging Pandas, NumPy, Matplotlib, Keras, and Scikit-learn libraries.
 - Preprocessing data, building, training, and saving the LSTM model, and visualizing predictions.
+
+- ![predicted](https://github.com/AirSatyam07/Stock-Price-Prediction/assets/99055360/e0cdbac6-cf25-4dda-b72c-caeffd005c09)
+
 
 ### Dashboard Development with Plotly Dash
 - Constructing an interactive dashboard using Python's Dash framework.
